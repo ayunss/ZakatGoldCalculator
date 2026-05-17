@@ -21,7 +21,7 @@ public class AboutActivity extends AppCompatActivity {
         tvGithub.setOnClickListener(view -> {
 
             Intent intent = new Intent(Intent.ACTION_VIEW,
-                    Uri.parse("https://github.com/yourusername/zakatgoldcalculator"));
+                    Uri.parse("https://github.com/ayunss/ZakatGoldCalculator"));
 
             startActivity(intent);
 
