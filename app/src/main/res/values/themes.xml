@@ -1,9 +1,11 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.ZakatGoldCalculator" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<resources>
+
+    <style name="Theme.ZakatGoldCalculator"
+        parent="Theme.Material3.DayNight">
+
+        <item name="colorPrimary">#0B6B4A</item>
+        <item name="colorSecondary">#0B6B4A</item>
+
     </style>
 
-    <style name="Theme.ZakatGoldCalculator" parent="Base.Theme.ZakatGoldCalculator" />
 </resources>
